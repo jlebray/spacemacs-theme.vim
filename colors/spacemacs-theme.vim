@@ -44,6 +44,24 @@ let s:yellow = "b1951d"
 let s:green  = "67b11d"
 let s:white  = "ffffff"
 
+" Neovim terminal color definitions
+let g:terminal_color_0  = '#1e2022'
+let g:terminal_color_1  = '#c13b67'
+let g:terminal_color_2  = '#278561'
+let g:terminal_color_3  = '#b1951d'
+let g:terminal_color_4  = '#4083cd'
+let g:terminal_color_5  = '#ab53b6'
+let g:terminal_color_6  = '#248a91'
+let g:terminal_color_7  = '#dedede'
+let g:terminal_color_8  = '#555e68'
+let g:terminal_color_9  = '#c13b67'
+let g:terminal_color_10 = '#74d524'
+let g:terminal_color_11 = '#e79e0f'
+let g:terminal_color_12 = '#3d7dc0'
+let g:terminal_color_13 = '#ab53b6'
+let g:terminal_color_14 = '#25909e'
+let g:terminal_color_15 = '#efefef'
+
 " Terminal color definitions
 let s:cterm00 = "00"
 let s:cterm03 = "08"
